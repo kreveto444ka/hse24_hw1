@@ -8,7 +8,7 @@
 
 ![image](https://github.com/kreveto444ka/hse24_hw1/assets/45360131/04c378d6-f8b7-4af7-a1dc-1ae194c48c92)
 
-| 8-cell | ICM | Epiblast
+BS-Seq | 8-cell | ICM | Epiblast
 --- | --- | --- | ---
 11347700 — 11367700 | 551 | 797 | 1344
 40185800 — 40195800 | 194 | 274 | 565
