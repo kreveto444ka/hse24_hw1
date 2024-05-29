@@ -1,6 +1,6 @@
 # hse24_hw1
 
-(https://colab.research.google.com/drive/1LiFgPc-6aLaJpNbCA3L3Uuae2y1qPX86?usp=sharing)[Colab]
+[Colab](https://colab.research.google.com/drive/1LiFgPc-6aLaJpNbCA3L3Uuae2y1qPX86?usp=sharing)
 
 Анализ FastQC:
 
