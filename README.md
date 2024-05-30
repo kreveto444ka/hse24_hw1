@@ -8,6 +8,12 @@
 
 ![image](https://github.com/kreveto444ka/hse24_hw1/assets/45360131/04c378d6-f8b7-4af7-a1dc-1ae194c48c92)
 
+![image](https://github.com/kreveto444ka/hse24_hw1/assets/45360131/60786e9a-181a-42d3-b2f8-52b35520f1ef)
+
+![image](https://github.com/kreveto444ka/hse24_hw1/assets/45360131/fcab26bc-a10f-4315-a4e9-636e262e3735)
+
+В ДНК почти отсутствует цитозин, преобладает тимин. В РНК тимина меньше, преобладает цитозин, меньше всего гуанина.
+
 Сегмент | 8-cell | ICM | Epiblast
 --- | --- | --- | ---
 11347700 — 11367700 | 551 | 797 | 1344
@@ -22,3 +28,5 @@ SRR3824222:
 ![image](https://github.com/kreveto444ka/hse24_hw1/assets/45360131/95832831-c3d6-4898-9fde-e2ab85c7dc41)
 
 ![image](https://github.com/kreveto444ka/hse24_hw1/assets/45360131/8f4b14a1-f14a-46f3-9c57-a561de8a9d76)
+
+В ICM в основном метелируется 0% В 8cell  чаще всего метелируетсяч 0%.
